@@ -3,8 +3,7 @@ require 'formula'
 class TidyHtml5 < Formula
   homepage 'http://w3c.github.com/tidy-html5/'
   url 'https://github.com/w3c/tidy-html5/archive/master.zip'
-  sha1 '288cd7fa58ef1fa626844dc3fa250b9d3a44abf7'
-  version "20130103"
+  sha1 '45634577b7605ffa547778eddb42b81d87da519b'
 
   def install
     ENV.deparallelize
