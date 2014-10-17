@@ -13,6 +13,7 @@ Available tools
 ### [tidy-html5](https://github.com/w3c/tidy-html5)
 Experimental fork of Tidy for HTML5 documents. 
 Formuale from: [Add tidy-html5](https://github.com/Homebrew/homebrew/pull/17082)
+Note to install: `brew install --HEAD tidy-html5`
 
 ### [git-hub](https://github.com/ingydotnet/git-hub)
 Do GitHub operations from the `git` command
