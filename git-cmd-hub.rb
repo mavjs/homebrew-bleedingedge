@@ -3,7 +3,7 @@ require "formula"
 class GitCmdHub < Formula
   homepage "https://github.com/ingydotnet/git-hub"
   url "https://github.com/ingydotnet/git-hub/archive/0.1.4.tar.gz"
-  sha1 "e902e3dc9a3ad1aacda61eabf22011f61bd139c3"
+  sha256 "d0cad0035c396aa83f7b660543267ccc5427b9f334a00fba218846c180df144b"
 
   def install
     inreplace 'Makefile' do |f|
